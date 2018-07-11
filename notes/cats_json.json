@@ -1,0 +1,44 @@
+[
+    {
+        "age": "3",
+        "breed": "tabby",
+        "dob": "",
+        "id": "1",
+        "name": "Franklin"
+    },
+    {
+        "age": "3",
+        "breed": "tiger",
+        "dob": "",
+        "id": "2",
+        "name": "Max"
+    },
+    {
+        "age": "3",
+        "breed": "calico",
+        "dob": "",
+        "id": "3",
+        "name": "Cheesy"
+    },
+    {
+        "age": "4",
+        "breed": "cartoon",
+        "dob": "",
+        "id": "4",
+        "name": "Garfield"
+    },
+    {
+        "age": "4",
+        "breed": "saimese",
+        "dob": "",
+        "id": "5",
+        "name": "Phil"
+    },
+    {
+        "age": "45",
+        "breed": "cartoon",
+        "dob": "",
+        "id": "6",
+        "name": "Felix"
+    }
+]
